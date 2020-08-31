@@ -13,6 +13,8 @@
     position: absolute;
     background: black;
     border-radius: 10px;
+    transform-origin: bottom;
+    
 }
 #hour{
     width: 0.9%;
